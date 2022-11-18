@@ -1,0 +1,7 @@
+One noticable trend I observed was that, as the spending range per student increases, the overall passing rate decreases in this specific school district. 
+This is evident in my pandas code when I created a table of spending ranges per student as an index, with scores portrayed along the row.
+
+
+Another trend I realized when analyzing this data is that charter schools have much higher average, and passing scores accross the board. Intuitively it makes sense.
+District are schools, they allow everyone thus, there is less emphasis on the quality of teaching that goes on there. This is eveident in my table where I seperated the 
+scores to be pulled by School type.
